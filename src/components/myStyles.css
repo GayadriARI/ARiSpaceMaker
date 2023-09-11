@@ -1,0 +1,20 @@
+.topnav {
+    background-color:#254A9A !important;
+    height: 10vh;
+    padding: 2px;
+    text-align: center;
+    font-family: Ubuntu, "times new roman", times, roman, serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: white;
+    width: 100%;
+  }
+  .container{
+    margin-top: .5%;
+  }
+  .imageCls{
+    width: 8%;
+    margin-left: 88%;
+  }
+
+
